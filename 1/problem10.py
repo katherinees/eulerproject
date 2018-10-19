@@ -1,6 +1,6 @@
 '''
 Problem 10: find sum of primes below 2000000.
-Use Sieve of Eratosthenes.
+Method: Use Sieve of Eratosthenes.
 Answer: 142913828922.
 '''
 
